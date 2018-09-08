@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/akshatshah/Desktop/React-native-app/albums/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.m \
+  /Users/akshatshah/Desktop/React-native-app/albums/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/akshatshah/Desktop/React-native-app/albums/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h
